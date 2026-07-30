@@ -76,26 +76,18 @@ AI humanoid robot.
 # 📊 GitHub Stats
 
 <p align="center">
+
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Shuzaifa12&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shuzaifa12&show_icons=true&theme=tokyonight"
+    height="180"
   />
 
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuzaifa12&layout=compact&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shuzaifa12&layout=compact&theme=tokyonight"
+    height="180"
   />
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shuzaifa12&theme=tokyonight"/>
 
 </p>
-
----
 
 # 🌐 Connect With Me
 
