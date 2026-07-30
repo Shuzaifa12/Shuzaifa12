@@ -1,50 +1,56 @@
 <div align="center">
 
-# Syed Huzaifa Bin Hamid
+# ⚡ Syed Huzaifa Bin Hamid
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Initializing+J.A.R.V.I.S...;AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Agents+and+Robotics;Next.js+%7C+Python+%7C+Django;Welcome+to+my+control+center+⚡" />
+### AI Engineer • Full Stack Developer • Robotics Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+AI+Agents;Creating+Intelligent+Systems;Next.js+%7C+Python+%7C+Django;LLMs+%7C+Automation+%7C+Robotics;Welcome+to+my+digital+workspace" />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Shuzaifa12&style=for-the-badge&color=00F7FF)
+![](https://komarev.com/ghpvc/?username=Shuzaifa12&style=for-the-badge&color=0CF2FF)
 
 </div>
 
 ---
 
-```bash
-> SYSTEM STATUS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header"/>
 
-NAME        : Syed Huzaifa Bin Hamid
-LOCATION    : Karachi, Pakistan
-ROLE        : AI Engineer | Full Stack Developer
-SPECIALITY  : AI Agents, SaaS, Robotics
-STATUS      : ONLINE 🟢
+# 🖥️ System Overview
+
+```console
+┌─────────────────────────────────────────────┐
+│ Name      : Syed Huzaifa Bin Hamid          │
+│ Location  : Karachi, Pakistan               │
+│ Role      : AI Engineer                     │
+│ Stack     : Next.js • Python • Django       │
+│ Status    : Online 🟢                       │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🧠 AI CORE
+# 🧠 Current Focus
 
 ```yaml
-current_focus:
+focus:
 
   - AI Agents
+  - Multi-Agent Systems
+  - SaaS Products
   - Humanoid Robotics
-  - SaaS Platforms
-  - LLM Applications
-  - Intelligent Automation
+  - Automation
 
-learning:
+currently_learning:
 
-  - RAG Systems
-  - Multi-Agent Architectures
+  - RAG
   - Cloud Infrastructure
+  - Scalable AI Systems
 ```
 
 ---
 
-# ⚙️ TECH STACK
+# ⚙️ Tech Stack
 
 <div align="center">
 
@@ -54,7 +60,7 @@ learning:
 
 ---
 
-# 🚀 ACTIVE PROJECTS
+# 🚀 Featured Projects
 
 <table>
 
@@ -68,10 +74,10 @@ learning:
 STATUS: ACTIVE
 
 → AI Chatbot SaaS
-→ LLM Integration
-→ Website Embedding
+→ Website Integration
+→ LLM Workflows
 → Dashboard
-→ Automation Workflows
+→ User Management
 ```
 
 </td>
@@ -83,11 +89,11 @@ STATUS: ACTIVE
 ```txt
 STATUS: IN DEVELOPMENT
 
-→ Voice Commands
+→ Voice Interaction
 → STT / TTS
-→ Arduino Control
-→ Real-time Responses
-→ Hardware Automation
+→ Hardware Control
+→ Real-time AI
+→ Automation
 ```
 
 </td>
@@ -98,7 +104,7 @@ STATUS: IN DEVELOPMENT
 
 ---
 
-# 📊 SYSTEM ANALYTICS
+# 📊 Analytics Dashboard
 
 <div align="center">
 
@@ -118,43 +124,43 @@ STATUS: IN DEVELOPMENT
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 Milestones
 
-🏅 Winner — Hackfest 3.0
+🏅 Hackfest 3.0 Winner
 
 🚀 Creator of LinguoAI
 
 🤖 Creator of Aithon
 
-💡 AI & Robotics Enthusiast
+💡 Passionate about AI & Robotics
 
 ---
 
-# 🌐 NETWORK CONNECTIONS
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/s-huzaifa">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/SyedHuz61085101">
-  <img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:shuzaifa32@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
 
 ---
 
-# 🐍 ACTIVITY MATRIX
+# 🐍 Contribution Graph
 
 <div align="center">
 
@@ -166,8 +172,8 @@ STATUS: IN DEVELOPMENT
 
 <div align="center">
 
-```txt
-"Building intelligent systems for the future."
-```
+### ⚡ Building intelligent systems for the future ⚡
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
