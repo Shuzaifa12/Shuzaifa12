@@ -1,106 +1,160 @@
-<h1 align="center">
-⚡ Syed Huzaifa Bin Hamid ⚡
-</h1>
+<div align="center">
 
-<h3 align="center">
-🤖 AI Engineer • Full Stack Developer • Robotics Enthusiast
-</h3>
+# ⚡ Syed Huzaifa Bin Hamid
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Agents;Next.js+%7C+Python+%7C+Django;LLMs+%7C+Automation+%7C+Robotics;Turning+Ideas+Into+Reality" />
-</p>
+### 🤖 AI Engineer • Full Stack Developer • Robotics Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Agents+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+Python+%7C+Django;LLMs+%7C+Automation+%7C+Robotics;Turning+Ideas+Into+Reality+%E2%9A%A1" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Shuzaifa12&style=for-the-badge&color=blueviolet)
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
 ```yaml
-Name: Syed Huzaifa Bin Hamid
+name: Syed Huzaifa Bin Hamid
 
-Role:
-  - Full Stack Developer
+role:
   - AI Engineer
-  - SaaS Builder
+  - Full Stack Developer
+  - SaaS Founder
 
-Current Focus:
+currently_building:
   - AI Agents
   - Robotics
-  - LLM Applications
-  - SaaS Products
+  - AI SaaS Products
+  - Intelligent Automation
 
-Tech Stack:
-  - Next.js
-  - React
-  - Python
-  - Django
-  - PostgreSQL
-  - Docker
+location: Karachi, Pakistan
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚒️ Tech Arsenal
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,django,postgres,docker,git,github,arduino,vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,python,django,postgres,docker,redis,git,github,arduino,vscode" />
 
-</p>
+</div>
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ## 🌍 LinguoAI
 
 AI-powered chatbot SaaS platform.
 
-- LLM integration
-- Dashboard
-- Website integration
-- Automation workflows
+✨ Features:
 
----
+- AI chatbots
+- LLM integration
+- Website embedding
+- Automation workflows
+- Admin dashboard
+
+</td>
+
+<td width="50%">
 
 ## 🤖 Aithon
 
 AI humanoid robot.
 
+✨ Features:
+
 - Voice commands
 - STT & TTS
 - Arduino integration
 - Real-time AI responses
+- Hardware automation
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Analytics
 
-<p align="center">
+<div align="center">
 
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shuzaifa12&show_icons=true&theme=tokyonight"
-    height="180"
-  />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shuzaifa12&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shuzaifa12&layout=compact&theme=tokyonight"
-    height="180"
-  />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shuzaifa12&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
-# 🌐 Connect With Me
+<br>
 
-- LinkedIn: https://www.linkedin.com/in/s-huzaifa/
-- X: https://x.com/SyedHuz61085101
-- Email: shuzaifa32@gmail.com
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shuzaifa12&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
+# 🏆 Achievements
 
-⭐ Building the future with AI.
+🏅 Hackfest 3.0 Winner
 
-</p>
+🚀 Built LinguoAI SaaS Platform
+
+🤖 Building Aithon Humanoid Robot
+
+💡 Passionate about AI & Automation
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/s-huzaifa">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/SyedHuz61085101">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:shuzaifa32@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
 
 ![snake gif](https://github.com/Shuzaifa12/Shuzaifa12/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Building the future with AI and intelligent systems."
+
+</div>
