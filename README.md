@@ -106,3 +106,5 @@ AI humanoid robot.
 ⭐ Building the future with AI.
 
 </p>
+
+![snake gif](https://github.com/Shuzaifa12/Shuzaifa12/blob/output/github-contribution-grid-snake.svg)
