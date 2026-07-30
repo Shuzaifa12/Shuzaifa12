@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ J.A.R.V.I.S. Dashboard — Syed Huzaifa Bin Hamid
+# Syed Huzaifa Bin Hamid
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Initializing+J.A.R.V.I.S...;AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Agents+and+Robotics;Next.js+%7C+Python+%7C+Django;Welcome+to+my+control+center+⚡" />
 
@@ -167,8 +167,6 @@ STATUS: IN DEVELOPMENT
 <div align="center">
 
 ```txt
-J.A.R.V.I.S v1.0
-
 "Building intelligent systems for the future."
 ```
 
