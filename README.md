@@ -1,41 +1,50 @@
 <div align="center">
 
-# ⚡ Syed Huzaifa Bin Hamid
+# ⚡ J.A.R.V.I.S. Dashboard — Syed Huzaifa Bin Hamid
 
-### 🤖 AI Engineer • Full Stack Developer • Robotics Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Agents+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+Python+%7C+Django;LLMs+%7C+Automation+%7C+Robotics;Turning+Ideas+Into+Reality+%E2%9A%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Initializing+J.A.R.V.I.S...;AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Agents+and+Robotics;Next.js+%7C+Python+%7C+Django;Welcome+to+my+control+center+⚡" />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Shuzaifa12&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Shuzaifa12&style=for-the-badge&color=00F7FF)
 
 </div>
 
 ---
 
-# 🧠 About Me
+```bash
+> SYSTEM STATUS
 
-```yaml
-name: Syed Huzaifa Bin Hamid
-
-role:
-  - AI Engineer
-  - Full Stack Developer
-  - SaaS Founder
-
-currently_building:
-  - AI Agents
-  - Robotics
-  - AI SaaS Products
-  - Intelligent Automation
-
-location: Karachi, Pakistan
+NAME        : Syed Huzaifa Bin Hamid
+LOCATION    : Karachi, Pakistan
+ROLE        : AI Engineer | Full Stack Developer
+SPECIALITY  : AI Agents, SaaS, Robotics
+STATUS      : ONLINE 🟢
 ```
 
 ---
 
-# ⚒️ Tech Arsenal
+# 🧠 AI CORE
+
+```yaml
+current_focus:
+
+  - AI Agents
+  - Humanoid Robotics
+  - SaaS Platforms
+  - LLM Applications
+  - Intelligent Automation
+
+learning:
+
+  - RAG Systems
+  - Multi-Agent Architectures
+  - Cloud Infrastructure
+```
+
+---
+
+# ⚙️ TECH STACK
 
 <div align="center">
 
@@ -45,24 +54,25 @@ location: Karachi, Pakistan
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 ACTIVE PROJECTS
 
 <table>
+
 <tr>
 
 <td width="50%">
 
 ## 🌍 LinguoAI
 
-AI-powered chatbot SaaS platform.
+```txt
+STATUS: ACTIVE
 
-✨ Features:
-
-- AI chatbots
-- LLM integration
-- Website embedding
-- Automation workflows
-- Admin dashboard
+→ AI Chatbot SaaS
+→ LLM Integration
+→ Website Embedding
+→ Dashboard
+→ Automation Workflows
+```
 
 </td>
 
@@ -70,30 +80,31 @@ AI-powered chatbot SaaS platform.
 
 ## 🤖 Aithon
 
-AI humanoid robot.
+```txt
+STATUS: IN DEVELOPMENT
 
-✨ Features:
-
-- Voice commands
-- STT & TTS
-- Arduino integration
-- Real-time AI responses
-- Hardware automation
+→ Voice Commands
+→ STT / TTS
+→ Arduino Control
+→ Real-time Responses
+→ Hardware Automation
+```
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 📊 Analytics
+# 📊 SYSTEM ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shuzaifa12&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shuzaifa12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shuzaifa12&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shuzaifa12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -101,25 +112,25 @@ AI humanoid robot.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shuzaifa12&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Shuzaifa12&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 ACHIEVEMENTS
 
-🏅 Hackfest 3.0 Winner
+🏅 Winner — Hackfest 3.0
 
-🚀 Built LinguoAI SaaS Platform
+🚀 Creator of LinguoAI
 
-🤖 Building Aithon Humanoid Robot
+🤖 Creator of Aithon
 
-💡 Passionate about AI & Automation
+💡 AI & Robotics Enthusiast
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 NETWORK CONNECTIONS
 
 <div align="center">
 
@@ -143,7 +154,7 @@ AI humanoid robot.
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 ACTIVITY MATRIX
 
 <div align="center">
 
@@ -155,6 +166,10 @@ AI humanoid robot.
 
 <div align="center">
 
-### ⚡ "Building the future with AI and intelligent systems."
+```txt
+J.A.R.V.I.S v1.0
+
+"Building intelligent systems for the future."
+```
 
 </div>
